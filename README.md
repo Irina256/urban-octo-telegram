@@ -3,7 +3,8 @@
 [Horiseon](https://irina256.github.io/urban-octo-telegram/Develop/index.html"Horiseon Home") 
 Marketing Agency needed a codebase that follows accessibility standards
 
-_Aim of that project was to refactor the code according to ##Acceptance criteria:_
+_Aim of that project was to refactor the code according to 
+## Acceptance criteria:_
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
