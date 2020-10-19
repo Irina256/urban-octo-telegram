@@ -1,6 +1,6 @@
 # urban-octo-telegram
 ***
-[Horiseon]( "Horiseon Home") 
+[Horiseon](https://irina256.github.io/urban-octo-telegram/Develop/index.html"Horiseon Home") 
 Marketing Agency needed a codebase that follows accessibility standards
 
 _Aim of that project was to refactor the code according to ##Acceptance criteria:_
